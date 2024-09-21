@@ -4,5 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-SERVER-CONTROL:CAN-BLOCK-RELOAD=YES,CAN-SKIP-UNTIL=2,PART-HOLD-BACK=3
 #EXTINF:1,
-http://keycdn.co/play/live.php?mac=00:1A:79:74:D2:D4&stream=623740&extension=ts
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=4599&extension=ts
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=606657&extension=ts
