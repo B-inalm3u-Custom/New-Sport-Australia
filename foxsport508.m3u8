@@ -5,4 +5,4 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
-http://tprohd.net:8080/live/234769298598/65cfc6c118435/164089.m3u8
+http://wildversion.com:8080/play/live.php?mac=00:1A:79:F1:B8:05&stream=383668&extension=ts
